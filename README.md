@@ -62,6 +62,6 @@ Example: ![Dasboard preview](https://github.com/Deepesh-Yadav-2004/Blinkit-Dashb
 ## 👤 Author
 **Deepesh Yadav**  
 - 📧 [Email](mailto:deepesh9136@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com)  
+- 🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/deepesh-yadav-b2b981291/))  
 - 🌐 [Portfolio](https://deepeshyadav.vercel.app/)  
 
