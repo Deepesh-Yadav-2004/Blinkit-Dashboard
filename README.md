@@ -47,7 +47,7 @@ The dataset includes:
 ---
 
 ## 📸 Dashboard Preview
-*(Insert screenshot of your Power BI dashboard here)*  
+Example: ![Dasboard preview].(https://github.com/Deepesh-Yadav-2004/Blinkit-Dashboard/blob/main/Dashboard%20Snapshot.png)  
 
 ---
 
