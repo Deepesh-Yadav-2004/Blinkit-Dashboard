@@ -47,7 +47,7 @@ The dataset includes:
 ---
 
 ## 📸 Dashboard Preview
-Example: ![Dasboard preview].(https://github.com/Deepesh-Yadav-2004/Blinkit-Dashboard/blob/main/Dashboard%20Snapshot.png)  
+Example: ![Dasboard preview](https://github.com/Deepesh-Yadav-2004/Blinkit-Dashboard/blob/main/Dashboard%20Snapshot.png)  
 
 ---
 
